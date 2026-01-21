@@ -180,7 +180,7 @@ Independent developer exploring the intersection of
 - [![Website](https://img.shields.io/badge/Website-flameai.net-4285F4?logo=google-chrome&logoColor=white)](https://www.flameai.net/)
 - [![Xiaohongshu](https://img.shields.io/badge/小红书-福雷姆_Flame-FF2442?logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/4hpU0mLDqkm)
 - [![Douyin](https://img.shields.io/badge/抖音-flameai-000000?logo=tiktok&logoColor=white)](https://v.douyin.com/wdahg7Imp6M/)
-- ![WeChat](https://img.shields.io/badge/公众号-FlameAI_Studio-07C160?logo=wechat&logoColor=white)
+- ![WeChat](https://img.shields.io/badge/公众号-FlameAI-07C160?logo=wechat&logoColor=white)
 
 <table>
   <tr>
