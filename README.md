@@ -13,6 +13,9 @@ Instead, it presents He Tu and Luo Shu as **structural and symbolic systems** th
 项目本身**不提供吉凶判断，也不做预测结论**，
 而是提供一种可被观察、理解与再诠释的结构呈现。
 
+
+### [🚀 Live Demo Used (在线体验)](https://flameaistudio.github.io/HeTu-LuoShu-3D/)
+
 ---
 
 ## ✨ What This Project Is | 项目说明
