@@ -1,5 +1,5 @@
-# 🧿 He Tu & Luo Shu — Structural Visualization
-# 🧿 河图 · 洛书 · 数理结构可视化
+# He Tu & Luo Shu — Structural Visualization
+# 河图 · 洛书 · 数理结构可视化
 
 A visual and interactive exploration of the **He Tu (河图)** and **Luo Shu (洛书)** system,
 focusing on their numerical structure, spatial order, and symbolic relationships.
