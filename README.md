@@ -169,12 +169,17 @@ Let knowledge flow freely.
 
 ## 👤 About the Author | 作者
 
-Created by **Flame (FlameAIStudio)**
-Independent developer exploring the intersection of
-**traditional structures, mathematics, and modern visualization**.
+**Flame (FlameAIStudio)**
 
-独立开发者，关注
-**传统结构 × 数理系统 × 现代可视化** 的交叉探索。
+🏷️ **Global Indie Dev | AI Explorer | Traditional Culture Enthusiast | ENTP**
+✍️ **Dev Logs | Growth Insights | AI Experiments | Daily Inspiration**
+
+Independent developer exploring the intersection of **traditional structures, mathematics, and modern visualization**.
+
+🏷️ **出海开发者｜AI探索者｜传统文化爱好者｜ENTP**
+✍️ **开发实录｜增长复盘｜AI实验｜日常灵感**
+
+独立开发者，关注 **传统结构 × 数理系统 × 现代可视化** 的交叉探索。
 
 - [![GitHub](https://img.shields.io/badge/GitHub-FlameAIStudio-181717?logo=github&logoColor=white)](https://github.com/FlameAIStudio)
 - [![Website](https://img.shields.io/badge/Website-flameai.net-4285F4?logo=google-chrome&logoColor=white)](https://www.flameai.net/)
